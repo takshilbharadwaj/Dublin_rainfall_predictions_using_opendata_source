@@ -1,1 +1,3 @@
-# Dublin_rainfall_predictions_using_opendata_source
+# Machine learning semester submission
+The ipynb file contains the major code.
+
