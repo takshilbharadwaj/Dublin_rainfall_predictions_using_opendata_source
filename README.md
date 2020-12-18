@@ -1,3 +1,2 @@
-# Machine learning semester submission
-The ipynb file contains the major code.
-
+#Gist of the repository
+The repository is a quick practice project based on predicitng the chance of rainfall for a following day using pre-processed data and different prediction models.
